@@ -4,3 +4,4 @@ langchain
 langchain_openai
 streamlit_chat
 langchain_core
+sentence_transformers
